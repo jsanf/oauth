@@ -1,0 +1,14 @@
+{
+    "name": "zhangzhongxian/oauth",
+    "require":{
+    	"php": "^7.3",
+        "guzzlehttp/guzzle": "^6.5"
+    },
+    "authors": [
+        {
+            "name": "zhangzhongxian",
+            "email": "664934750@qq.com"
+        }
+    ],
+    "license": "MIT"
+}
