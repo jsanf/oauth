@@ -1,4 +1,9 @@
 <h1>配置</h1>
+
+<h2>install</h2>
+
+    composer require zhangzhongxian/oauth
+    
 <h2>config.php</h2>
 
     return [
