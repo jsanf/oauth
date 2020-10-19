@@ -2,7 +2,7 @@
 
 <h2>install</h2>
 
-    composer require zhangzhongxian/oauth
+    composer require jsanf/oauth
     
 <h2>config.php</h2>
 
